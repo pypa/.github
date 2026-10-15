@@ -1,0 +1,9 @@
+---
+
+custom:
+- https://pypi.org/sponsors/
+
+github:
+- pypa
+
+...
